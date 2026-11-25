@@ -10,7 +10,7 @@ const MONOLOGUE =
   "Three wars, one famine, and the dead still owe. I only collect. The dead pay in heirs. " +
   "One signature, and the tombs are yours. " +
   "The wax is— the wax is warm. I kept it warm. That is the trick: nobody waits for wax. " +
-  "Sign here. Here. Under your father’s name. " +
+  "Sign here. Here. Under your father's name. " +
   "The north road, the tolls, the winter grain, all yours. All— mine, until the ink dries. " +
   "And when it does. When it does, you may bury me beside him. " +
   "I picked the stone. It says: paid in full.";
